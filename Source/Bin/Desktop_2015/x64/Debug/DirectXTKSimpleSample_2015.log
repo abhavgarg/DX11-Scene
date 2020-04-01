@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Bin\Desktop_2015\x64\Debug\) contains files shared from another project (DirectXTKSimpleSample_2015.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+c:\users\abhav\desktop\new folder (2)\dx coursework\source\game.cpp(125): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhav\desktop\new folder (2)\dx coursework\source\game.cpp(131): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhav\desktop\new folder (2)\dx coursework\source\game.cpp(140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\abhav\desktop\new folder (2)\dx coursework\source\game.cpp(144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\abhav\desktop\new folder (2)\dx coursework\source\game.cpp(148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\abhav\desktop\new folder (2)\dx coursework\source\game.cpp(152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Users\abhav\Desktop\New folder (2)\DX Coursework\Source\Bin\Desktop_2015\x64\Debug\Football.exe

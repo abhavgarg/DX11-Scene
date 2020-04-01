@@ -1,0 +1,3 @@
+﻿C:\Users\abhav\Desktop\DX Coursework\Engine\colour_ps.hlsl(13,30-40): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+  
+  compilation failed; no code produced
